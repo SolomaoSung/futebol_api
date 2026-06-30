@@ -1,0 +1,8 @@
+.env
+mlflow.db
+mlartifacts
+*.db
+
+__pycache__
+*.pyc
+*.parquet
