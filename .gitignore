@@ -6,4 +6,4 @@ mlartifacts
 __pycache__
 *.pyc
 *.parquet
-.vscode
+.vscode/
